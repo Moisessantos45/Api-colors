@@ -1,0 +1,1298 @@
+[
+  {
+    "id": 0,
+    "Nombre": "ALICEBLUE",
+    "Hexadecimal": "#f0f8ff",
+    "Rgb": "(240, 248, 255)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 1,
+    "Nombre": "ANTIQUEWHITE",
+    "Hexadecimal": "#faebd7",
+    "Rgb": "(250, 235, 215)",
+    "complementario": "Darkslategray",
+    "valor_rgb": "(47, 79, 79)",
+    "valor_hexadecimal": "#2f4f4f"
+  },
+  {
+    "id": 2,
+    "Nombre": "AQUA",
+    "Hexadecimal": null,
+    "Rgb": "(0, 255, 255)",
+    "complementario": "Mediumspringgreen",
+    "valor_rgb": "(0, 250, 154)",
+    "valor_hexadecimal": "#00fa9a"
+  },
+  {
+    "id": 3,
+    "Nombre": "AQUAMARINE",
+    "Hexadecimal": "#7fffd4",
+    "Rgb": "(127, 255, 212)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 4,
+    "Nombre": "AZURE",
+    "Hexadecimal": "#f0ffff",
+    "Rgb": "(240, 255, 255)",
+    "complementario": "Lightcoral",
+    "valor_rgb": "(240, 128, 128)",
+    "valor_hexadecimal": null
+  },
+  {
+    "id": 5,
+    "Nombre": "BEIGE",
+    "Hexadecimal": "#f5f5dc",
+    "Rgb": "(245, 245, 220)",
+    "complementario": "Rosybrown",
+    "valor_rgb": "(188, 143, 143)",
+    "valor_hexadecimal": "#bc8f8f"
+  },
+  {
+    "id": 6,
+    "Nombre": "BISQUE",
+    "Hexadecimal": "#ffe4c4",
+    "Rgb": "(255, 228, 196)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 7,
+    "Nombre": "BLACK",
+    "Hexadecimal": "#000000",
+    "Rgb": "(0, 0, 0)",
+    "complementario": "White",
+    "valor_rgb": "(255, 255, 255)",
+    "valor_hexadecimal": "#ffffff"
+  },
+  {
+    "id": 8,
+    "Nombre": "BLANCHEDALMOND",
+    "Hexadecimal": "#ffebcd",
+    "Rgb": "(255, 235, 205)",
+    "complementario": "Darkslateblue",
+    "valor_rgb": "(72, 61, 139)",
+    "valor_hexadecimal": "#483d8b"
+  },
+  {
+    "id": 9,
+    "Nombre": "BLUE",
+    "Hexadecimal": "#0000ff",
+    "Rgb": "(0, 0, 255)",
+    "complementario": "Gold",
+    "valor_rgb": "(255, 215, 0)",
+    "valor_hexadecimal": "#ffd700"
+  },
+  {
+    "id": 10,
+    "Nombre": "BLUEVIOLET",
+    "Hexadecimal": "#8a2be2",
+    "Rgb": "(138, 43, 226)",
+    "complementario": "Darkseagreen",
+    "valor_rgb": "(143, 188, 143)",
+    "valor_hexadecimal": "#8fbc8f"
+  },
+  {
+    "id": 11,
+    "Nombre": "BROWN",
+    "Hexadecimal": "#a52a2a",
+    "Rgb": "(165, 42, 42)",
+    "complementario": "Lightsteelblue",
+    "valor_rgb": "(176, 196, 222)",
+    "valor_hexadecimal": "#b0c4de"
+  },
+  {
+    "id": 12,
+    "Nombre": "BURLYWOOD",
+    "Hexadecimal": "#deb887",
+    "Rgb": "(222, 184, 135)",
+    "complementario": "Mediumslateblue",
+    "valor_rgb": "(123, 104, 238)",
+    "valor_hexadecimal": "#7b68ee"
+  },
+  {
+    "id": 13,
+    "Nombre": "CADETBLUE",
+    "Hexadecimal": "#5f9ea0",
+    "Rgb": "(95, 158, 160)",
+    "complementario": "Tomato",
+    "valor_rgb": "(255, 99, 71)",
+    "valor_hexadecimal": "#ff6347"
+  },
+  {
+    "id": 14,
+    "Nombre": "CHARTREUSE",
+    "Hexadecimal": "#7fff00",
+    "Rgb": "(127, 255, 0)",
+    "complementario": "Darkred",
+    "valor_rgb": "(139, 0, 0)",
+    "valor_hexadecimal": "#8b0000"
+  },
+  {
+    "id": 15,
+    "Nombre": "CHOCOLATE",
+    "Hexadecimal": "#d2691e",
+    "Rgb": "(210, 105, 30)",
+    "complementario": "Mediumturquoise",
+    "valor_rgb": "(72, 209, 204)",
+    "valor_hexadecimal": "#48d1cc"
+  },
+  {
+    "id": 16,
+    "Nombre": "CORAL",
+    "Hexadecimal": "#ff7f50",
+    "Rgb": "(255, 127, 80)",
+    "complementario": "Darkslategray",
+    "valor_rgb": "(47, 79, 79)",
+    "valor_hexadecimal": "#2f4f4f"
+  },
+  {
+    "id": 17,
+    "Nombre": "CORNFLOWERBLUE",
+    "Hexadecimal": "#6495ed",
+    "Rgb": "(100, 149, 237)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 18,
+    "Nombre": "CORNSILK",
+    "Hexadecimal": "#fff8dc",
+    "Rgb": "(255, 248, 220)",
+    "complementario": "Mediumvioletred",
+    "valor_rgb": "(199, 21, 133)",
+    "valor_hexadecimal": "#c71585"
+  },
+  {
+    "id": 19,
+    "Nombre": "CRIMSON",
+    "Hexadecimal": "#dc143c",
+    "Rgb": "(220, 20, 60)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 20,
+    "Nombre": "CYAN",
+    "Hexadecimal": "#00ffff",
+    "Rgb": "(0, 255, 255)",
+    "complementario": "Tomato",
+    "valor_rgb": "(255, 99, 71)",
+    "valor_hexadecimal": "#ff6347"
+  },
+  {
+    "id": 21,
+    "Nombre": "DARKBLUE",
+    "Hexadecimal": "#00008b",
+    "Rgb": "(0, 0, 139)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 22,
+    "Nombre": "DARKCYAN",
+    "Hexadecimal": "#008b8b",
+    "Rgb": "(0, 139, 139)",
+    "complementario": "Palegoldenrod",
+    "valor_rgb": "(238, 232, 170)",
+    "valor_hexadecimal": "#eee8aa"
+  },
+  {
+    "id": 23,
+    "Nombre": "DARKGOLDENROD",
+    "Hexadecimal": "#b8860b",
+    "Rgb": "(184, 134, 11)",
+    "complementario": "Darkseagreen",
+    "valor_rgb": "(143, 188, 143)",
+    "valor_hexadecimal": "#8fbc8f"
+  },
+  {
+    "id": 24,
+    "Nombre": "DARKGRAY",
+    "Hexadecimal": "#a9a9a9",
+    "Rgb": "(169, 169, 169)",
+    "complementario": "Floralwhite",
+    "valor_rgb": "(255, 250, 240)",
+    "valor_hexadecimal": "#fffaf0"
+  },
+  {
+    "id": 25,
+    "Nombre": "DARKGREEN",
+    "Hexadecimal": "#006400",
+    "Rgb": "(0, 100, 0)",
+    "complementario": "Lightgoldenrodyellow",
+    "valor_rgb": "(250, 250, 210)",
+    "valor_hexadecimal": "#fafad2"
+  },
+  {
+    "id": 26,
+    "Nombre": "DARKGREY",
+    "Hexadecimal": null,
+    "Rgb": "(169, 169, 169)",
+    "complementario": "Lavender",
+    "valor_rgb": "(230, 230, 250)",
+    "valor_hexadecimal": "#e6e6fa"
+  },
+  {
+    "id": 27,
+    "Nombre": "DARKKHAKI",
+    "Hexadecimal": "#bdb76b",
+    "Rgb": "(189, 183, 107)",
+    "complementario": "Midnightblue",
+    "valor_rgb": "(25, 25, 112)",
+    "valor_hexadecimal": "#191970"
+  },
+  {
+    "id": 28,
+    "Nombre": "DARKMAGENTA",
+    "Hexadecimal": "#8b008b",
+    "Rgb": "(139, 0, 139)",
+    "complementario": "Yellowgreen",
+    "valor_rgb": "(154, 205, 50)",
+    "valor_hexadecimal": "#9acd32"
+  },
+  {
+    "id": 29,
+    "Nombre": "DARKOLIVEGREEN",
+    "Hexadecimal": "#556b2f",
+    "Rgb": "(85, 107, 47)",
+    "complementario": "Lightgoldenrodyellow",
+    "valor_rgb": "(250, 250, 210)",
+    "valor_hexadecimal": "#fafad2"
+  },
+  {
+    "id": 30,
+    "Nombre": "DARKORANGE",
+    "Hexadecimal": "#ff8c00",
+    "Rgb": "(255, 140, 0)",
+    "complementario": "Lightblue",
+    "valor_rgb": "(173, 216, 230)",
+    "valor_hexadecimal": "#add8e6"
+  },
+  {
+    "id": 31,
+    "Nombre": "DARKORCHID",
+    "Hexadecimal": "#9932cc",
+    "Rgb": "(153, 50, 204)",
+    "complementario": "Yellowgreen",
+    "valor_rgb": "(154, 205, 50)",
+    "valor_hexadecimal": "#9acd32"
+  },
+  {
+    "id": 32,
+    "Nombre": "DARKRED",
+    "Hexadecimal": "#8b0000",
+    "Rgb": "(139, 0, 0)",
+    "complementario": "Lightblue",
+    "valor_rgb": "(173, 216, 230)",
+    "valor_hexadecimal": "#add8e6"
+  },
+  {
+    "id": 33,
+    "Nombre": "DARKSALMON",
+    "Hexadecimal": null,
+    "Rgb": "(233, 150, 122)",
+    "complementario": "Darkseagreen",
+    "valor_rgb": "(143, 188, 143)",
+    "valor_hexadecimal": "#8fbc8f"
+  },
+  {
+    "id": 34,
+    "Nombre": "DARKSEAGREEN",
+    "Hexadecimal": "#8fbc8f",
+    "Rgb": "(143, 188, 143)",
+    "complementario": "Darkslateblue",
+    "valor_rgb": "(72, 61, 139)",
+    "valor_hexadecimal": "#483d8b"
+  },
+  {
+    "id": 35,
+    "Nombre": "DARKSLATEBLUE",
+    "Hexadecimal": "#483d8b",
+    "Rgb": "(72, 61, 139)",
+    "complementario": "Lightcoral",
+    "valor_rgb": "(240, 128, 128)",
+    "valor_hexadecimal": null
+  },
+  {
+    "id": 36,
+    "Nombre": "DARKSLATEGRAY",
+    "Hexadecimal": "#2f4f4f",
+    "Rgb": "(47, 79, 79)",
+    "complementario": "Lightsteelblue",
+    "valor_rgb": "(176, 196, 222)",
+    "valor_hexadecimal": "#b0c4de"
+  },
+  {
+    "id": 37,
+    "Nombre": "DARKSLATEGREY",
+    "Hexadecimal": null,
+    "Rgb": "(47, 79, 79)",
+    "complementario": "Lightsteelblue",
+    "valor_rgb": "(176, 196, 222)",
+    "valor_hexadecimal": "#b0c4de"
+  },
+  {
+    "id": 38,
+    "Nombre": "DARKTURQUOISE",
+    "Hexadecimal": "#00ced1",
+    "Rgb": "(0, 206, 209)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 39,
+    "Nombre": "DARKVIOLET",
+    "Hexadecimal": "#9400d3",
+    "Rgb": "(148, 0, 211)",
+    "complementario": "Gold",
+    "valor_rgb": "(255, 215, 0)",
+    "valor_hexadecimal": "#ffd700"
+  },
+  {
+    "id": 40,
+    "Nombre": "DEEPPINK",
+    "Hexadecimal": "#ff1493",
+    "Rgb": "(255, 20, 147)",
+    "complementario": "Lightcyan",
+    "valor_rgb": "(224, 255, 255)",
+    "valor_hexadecimal": "#e0ffff"
+  },
+  {
+    "id": 41,
+    "Nombre": "DEEPSKYBLUE",
+    "Hexadecimal": "#00bfff",
+    "Rgb": "(0, 191, 255)",
+    "complementario": "Coral",
+    "valor_rgb": "(255, 127, 80)",
+    "valor_hexadecimal": "#ff7f50"
+  },
+  {
+    "id": 42,
+    "Nombre": "DIMGRAY",
+    "Hexadecimal": "#696969",
+    "Rgb": "(105, 105, 105)",
+    "complementario": "Lightgray",
+    "valor_rgb": "(169, 169, 169)",
+    "valor_hexadecimal": null
+  },
+  {
+    "id": 43,
+    "Nombre": "DIMGREY",
+    "Hexadecimal": null,
+    "Rgb": "(105, 105, 105)",
+    "complementario": "Lightgray",
+    "valor_rgb": "(169, 169, 169)",
+    "valor_hexadecimal": null
+  },
+  {
+    "id": 44,
+    "Nombre": "DODGERBLUE",
+    "Hexadecimal": "#1e90ff",
+    "Rgb": "(30, 144, 255)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 45,
+    "Nombre": "FIREBRICK",
+    "Hexadecimal": "#b22222",
+    "Rgb": "(178, 34, 34)",
+    "complementario": "Lightblue",
+    "valor_rgb": "(173, 216, 230)",
+    "valor_hexadecimal": "#add8e6"
+  },
+  {
+    "id": 46,
+    "Nombre": "FLORALWHITE",
+    "Hexadecimal": "#fffaf0",
+    "Rgb": "(255, 250, 240)",
+    "complementario": "Darkslategray",
+    "valor_rgb": "(47, 79, 79)",
+    "valor_hexadecimal": "#2f4f4f"
+  },
+  {
+    "id": 47,
+    "Nombre": "FORESTGREEN",
+    "Hexadecimal": "#228b22",
+    "Rgb": "(34, 139, 34)",
+    "complementario": "Coral",
+    "valor_rgb": "(255, 127, 80)",
+    "valor_hexadecimal": "#ff7f50"
+  },
+  {
+    "id": 48,
+    "Nombre": "FUCHSIA",
+    "Hexadecimal": "#ff00ff",
+    "Rgb": "(255, 0, 255)",
+    "complementario": "Chartreuse",
+    "valor_rgb": "(127, 255, 0)",
+    "valor_hexadecimal": "#7fff00"
+  },
+  {
+    "id": 49,
+    "Nombre": "GAINSBORO",
+    "Hexadecimal": "#dcdcdc",
+    "Rgb": "(220, 220, 220)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 50,
+    "Nombre": "GHOSTWHITE",
+    "Hexadecimal": "#f8f8ff",
+    "Rgb": "(248, 248, 255)",
+    "complementario": "Darkslategray",
+    "valor_rgb": "(47, 79, 79)",
+    "valor_hexadecimal": "#2f4f4f"
+  },
+  {
+    "id": 51,
+    "Nombre": "GOLD",
+    "Hexadecimal": "#ffd700",
+    "Rgb": "(255, 215, 0)",
+    "complementario": "Darkgreen",
+    "valor_rgb": "(0, 100, 0)",
+    "valor_hexadecimal": "#006400"
+  },
+  {
+    "id": 52,
+    "Nombre": "GOLDENROD",
+    "Hexadecimal": "#daa520",
+    "Rgb": "(218, 165, 32)",
+    "complementario": "Darkslategray",
+    "valor_rgb": "(47, 79, 79)",
+    "valor_hexadecimal": "#2f4f4f"
+  },
+  {
+    "id": 53,
+    "Nombre": "GRAY",
+    "Hexadecimal": "#808080",
+    "Rgb": "(128, 128, 128)",
+    "complementario": "Lightsteelblue",
+    "valor_rgb": "(176, 196, 222)",
+    "valor_hexadecimal": "#b0c4de"
+  },
+  {
+    "id": 54,
+    "Nombre": "GREEN",
+    "Hexadecimal": "#008000",
+    "Rgb": "(0, 128, 0)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 55,
+    "Nombre": "GREENYELLOW",
+    "Hexadecimal": "#adff2f",
+    "Rgb": "(173, 255, 47)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 56,
+    "Nombre": "GREY",
+    "Hexadecimal": null,
+    "Rgb": "(128, 128, 128)",
+    "complementario": "Lightsteelblue",
+    "valor_rgb": "(176, 196, 222)",
+    "valor_hexadecimal": "#b0c4de"
+  },
+  {
+    "id": 57,
+    "Nombre": "HONEYDEW",
+    "Hexadecimal": "#f0fff0",
+    "Rgb": "(240, 255, 240)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 58,
+    "Nombre": "HOTPINK",
+    "Hexadecimal": "#ff69b4",
+    "Rgb": "(255, 105, 180)",
+    "complementario": "Darkgreen",
+    "valor_rgb": "(0, 100, 0)",
+    "valor_hexadecimal": "#006400"
+  },
+  {
+    "id": 59,
+    "Nombre": "INDIANRED",
+    "Hexadecimal": null,
+    "Rgb": "(205, 92, 92)",
+    "complementario": "Mediumseagreen",
+    "valor_rgb": "(60, 179, 113)",
+    "valor_hexadecimal": "#3cb371"
+  },
+  {
+    "id": 60,
+    "Nombre": "INDIGO",
+    "Hexadecimal": "#4b0082",
+    "Rgb": "(75, 0, 130)",
+    "complementario": "Gold",
+    "valor_rgb": "(255, 215, 0)",
+    "valor_hexadecimal": "#ffd700"
+  },
+  {
+    "id": 61,
+    "Nombre": "IVORY",
+    "Hexadecimal": "#fffff0",
+    "Rgb": "(255, 255, 240)",
+    "complementario": "Mediumslateblue",
+    "valor_rgb": "(123, 104, 238)",
+    "valor_hexadecimal": "#7b68ee"
+  },
+  {
+    "id": 62,
+    "Nombre": "KHAKI",
+    "Hexadecimal": "#f0e68c",
+    "Rgb": "(240, 230, 140)",
+    "complementario": "Darkorchid",
+    "valor_rgb": "(153, 50, 204)",
+    "valor_hexadecimal": "#9932cc"
+  },
+  {
+    "id": 63,
+    "Nombre": "LAVENDER",
+    "Hexadecimal": "#e6e6fa",
+    "Rgb": "(230, 230, 250)",
+    "complementario": "Darkslategray",
+    "valor_rgb": "(47, 79, 79)",
+    "valor_hexadecimal": "#2f4f4f"
+  },
+  {
+    "id": 64,
+    "Nombre": "LAVENDERBLUSH",
+    "Hexadecimal": "#fff0f5",
+    "Rgb": "(255, 240, 245)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 65,
+    "Nombre": "LAWNGREEN",
+    "Hexadecimal": "#7cfc00",
+    "Rgb": "(124, 252, 0)",
+    "complementario": "Mediumorchid",
+    "valor_rgb": "(186, 85, 211)",
+    "valor_hexadecimal": "#ba55d3"
+  },
+  {
+    "id": 66,
+    "Nombre": "LEMONCHIFFON",
+    "Hexadecimal": "#fffacd",
+    "Rgb": "(255, 250, 205)",
+    "complementario": "Darkslateblue",
+    "valor_rgb": "(72, 61, 139)",
+    "valor_hexadecimal": "#483d8b"
+  },
+  {
+    "id": 67,
+    "Nombre": "LIGHTBLUE",
+    "Hexadecimal": "#add8e6",
+    "Rgb": "(173, 216, 230)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 68,
+    "Nombre": "LIGHTCORAL",
+    "Hexadecimal": null,
+    "Rgb": "(240, 128, 128)",
+    "complementario": "Darkslategray",
+    "valor_rgb": "(47, 79, 79)",
+    "valor_hexadecimal": "#2f4f4f"
+  },
+  {
+    "id": 69,
+    "Nombre": "LIGHTCYAN",
+    "Hexadecimal": "#e0ffff",
+    "Rgb": "(224, 255, 255)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 70,
+    "Nombre": "LIGHTGOLDENRODYELLOW",
+    "Hexadecimal": "#fafad2",
+    "Rgb": "(250, 250, 210)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 71,
+    "Nombre": "LIGHTGRAY",
+    "Hexadecimal": null,
+    "Rgb": "(211, 211, 211)",
+    "complementario": "Darkslateblue",
+    "valor_rgb": "(72, 61, 139)",
+    "valor_hexadecimal": "#483d8b"
+  },
+  {
+    "id": 72,
+    "Nombre": "LIGHTGREEN",
+    "Hexadecimal": "#90ee90",
+    "Rgb": "(144, 238, 144)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 73,
+    "Nombre": "LIGHTGREY",
+    "Hexadecimal": "#d3d3d3",
+    "Rgb": "(211, 211, 211)",
+    "complementario": "Darkslateblue",
+    "valor_rgb": "(72, 61, 139)",
+    "valor_hexadecimal": "#483d8b"
+  },
+  {
+    "id": 74,
+    "Nombre": "LIGHTPINK",
+    "Hexadecimal": "#ffb6c1",
+    "Rgb": "(255, 182, 193)",
+    "complementario": "Darkcyan",
+    "valor_rgb": "(0, 139, 139)",
+    "valor_hexadecimal": "#008b8b"
+  },
+  {
+    "id": 75,
+    "Nombre": "LIGHTSALMON",
+    "Hexadecimal": "#ffa07a",
+    "Rgb": "(255, 160, 122)",
+    "complementario": "Darkslategray",
+    "valor_rgb": "(47, 79, 79)",
+    "valor_hexadecimal": "#2f4f4f"
+  },
+  {
+    "id": 76,
+    "Nombre": "LIGHTSEAGREEN",
+    "Hexadecimal": "#20b2aa",
+    "Rgb": "(32, 178, 170)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 77,
+    "Nombre": "LIGHTSKYBLUE",
+    "Hexadecimal": "#87cefa",
+    "Rgb": "(135, 206, 250)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 78,
+    "Nombre": "LIGHTSLATEGRAY",
+    "Hexadecimal": "#778899",
+    "Rgb": "(119, 136, 153)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 79,
+    "Nombre": "LIGHTSLATEGREY",
+    "Hexadecimal": null,
+    "Rgb": "(119, 136, 153)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 80,
+    "Nombre": "LIGHTSTEELBLUE",
+    "Hexadecimal": "#b0c4de",
+    "Rgb": "(176, 196, 222)",
+    "complementario": "Darkslategray",
+    "valor_rgb": "(47, 79, 79)",
+    "valor_hexadecimal": "#2f4f4f"
+  },
+  {
+    "id": 81,
+    "Nombre": "LIGHTYELLOW",
+    "Hexadecimal": "#ffffe0",
+    "Rgb": "(255, 255, 224)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 82,
+    "Nombre": "LIME",
+    "Hexadecimal": "#00ff00",
+    "Rgb": "(0, 255, 0)",
+    "complementario": "Darkorchid",
+    "valor_rgb": "(153, 50, 204)",
+    "valor_hexadecimal": "#9932cc"
+  },
+  {
+    "id": 83,
+    "Nombre": "LIMEGREEN",
+    "Hexadecimal": "#32cd32",
+    "Rgb": "(50, 205, 50)",
+    "complementario": "Darkorchid",
+    "valor_rgb": "(153, 50, 204)",
+    "valor_hexadecimal": "#9932cc"
+  },
+  {
+    "id": 84,
+    "Nombre": "LINEN",
+    "Hexadecimal": "#faf0e6",
+    "Rgb": "(250, 240, 230)",
+    "complementario": "Darkslategray",
+    "valor_rgb": "(47, 79, 79)",
+    "valor_hexadecimal": "#2f4f4f"
+  },
+  {
+    "id": 85,
+    "Nombre": "MAGENTA",
+    "Hexadecimal": "#ff00ff",
+    "Rgb": "(255, 0, 255)",
+    "complementario": "Yellowgreen",
+    "valor_rgb": "(154, 205, 50)",
+    "valor_hexadecimal": "#9acd32"
+  },
+  {
+    "id": 86,
+    "Nombre": "MAROON",
+    "Hexadecimal": "#800000",
+    "Rgb": "(128, 0, 0)",
+    "complementario": "Mediumturquoise",
+    "valor_rgb": "(72, 209, 204)",
+    "valor_hexadecimal": "#48d1cc"
+  },
+  {
+    "id": 87,
+    "Nombre": "MEDIUMAQUAMARINE",
+    "Hexadecimal": "#66cdaa",
+    "Rgb": "(102, 205, 170)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 88,
+    "Nombre": "MEDIUMBLUE",
+    "Hexadecimal": "#0000cd",
+    "Rgb": "(0, 0, 205)",
+    "complementario": "Moccasin",
+    "valor_rgb": "(255, 228, 181)",
+    "valor_hexadecimal": "#ffe4b5"
+  },
+  {
+    "id": 89,
+    "Nombre": "MEDIUMORCHID",
+    "Hexadecimal": "#ba55d3",
+    "Rgb": "(186, 85, 211)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 90,
+    "Nombre": "MEDIUMPURPLE",
+    "Hexadecimal": "#9370db",
+    "Rgb": "(147, 112, 219)",
+    "complementario": "Olive",
+    "valor_rgb": "(128, 128, 0)",
+    "valor_hexadecimal": "#808000"
+  },
+  {
+    "id": 91,
+    "Nombre": "MEDIUMSEAGREEN",
+    "Hexadecimal": "#3cb371",
+    "Rgb": "(60, 179, 113)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 92,
+    "Nombre": "MEDIUMSLATEBLUE",
+    "Hexadecimal": "#7b68ee",
+    "Rgb": "(123, 104, 238)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 93,
+    "Nombre": "MEDIUMSPRINGGREEN",
+    "Hexadecimal": "#00fa9a",
+    "Rgb": "(0, 250, 154)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 94,
+    "Nombre": "MEDIUMTURQUOISE",
+    "Hexadecimal": "#48d1cc",
+    "Rgb": "(72, 209, 204)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 95,
+    "Nombre": "MEDIUMVIOLETRED",
+    "Hexadecimal": "#c71585",
+    "Rgb": "(199, 21, 133)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 96,
+    "Nombre": "MIDNIGHTBLUE",
+    "Hexadecimal": "#191970",
+    "Rgb": "(25, 25, 112)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 97,
+    "Nombre": "MINTCREAM",
+    "Hexadecimal": "#f5fffa",
+    "Rgb": "(245, 255, 250)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 98,
+    "Nombre": "MISTYROSE",
+    "Hexadecimal": "#ffe4e1",
+    "Rgb": "(255, 228, 225)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 99,
+    "Nombre": "MOCCASIN",
+    "Hexadecimal": "#ffe4b5",
+    "Rgb": "(255, 228, 181)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 100,
+    "Nombre": "NAVAJOWHITE",
+    "Hexadecimal": "#ffdead",
+    "Rgb": "(255, 222, 173)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 101,
+    "Nombre": "NAVY",
+    "Hexadecimal": "#000080",
+    "Rgb": "(0, 0, 128)",
+    "complementario": "Moccasin",
+    "valor_rgb": "(255, 228, 181)",
+    "valor_hexadecimal": "#ffe4b5"
+  },
+  {
+    "id": 102,
+    "Nombre": "OLDLACE",
+    "Hexadecimal": "#fdf5e6",
+    "Rgb": "(253, 245, 230)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 103,
+    "Nombre": "OLIVE",
+    "Hexadecimal": "#808000",
+    "Rgb": "(128, 128, 0)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 104,
+    "Nombre": "OLIVEDRAB",
+    "Hexadecimal": "#6b8e23",
+    "Rgb": "(107, 142, 35)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 105,
+    "Nombre": "ORANGE",
+    "Hexadecimal": "#ffa500",
+    "Rgb": "(255, 165, 0)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 106,
+    "Nombre": "ORANGERED",
+    "Hexadecimal": "#ff4500",
+    "Rgb": "(255, 69, 0)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 107,
+    "Nombre": "ORCHID",
+    "Hexadecimal": "#da70d6",
+    "Rgb": "(218, 112, 214)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 108,
+    "Nombre": "PALEGOLDENROD",
+    "Hexadecimal": "#eee8aa",
+    "Rgb": "(238, 232, 170)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 109,
+    "Nombre": "PALEGREEN",
+    "Hexadecimal": "#98fb98",
+    "Rgb": "(152, 251, 152)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 110,
+    "Nombre": "PALETURQUOISE",
+    "Hexadecimal": "#afeeee",
+    "Rgb": "(175, 238, 238)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 111,
+    "Nombre": "PALEVIOLETRED",
+    "Hexadecimal": "#db7093",
+    "Rgb": "(219, 112, 147)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 112,
+    "Nombre": "PAPAYAWHIP",
+    "Hexadecimal": "#ffefd5",
+    "Rgb": "(255, 239, 213)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 113,
+    "Nombre": "PEACHPUFF",
+    "Hexadecimal": "#ffdab9",
+    "Rgb": "(255, 218, 185)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 114,
+    "Nombre": "PERU",
+    "Hexadecimal": "#cd853f",
+    "Rgb": "(205, 133, 63)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 115,
+    "Nombre": "PINK",
+    "Hexadecimal": "#ffc0cb",
+    "Rgb": "(255, 192, 203)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 116,
+    "Nombre": "PLUM",
+    "Hexadecimal": "#dda0dd",
+    "Rgb": "(221, 160, 221)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 117,
+    "Nombre": "POWDERBLUE",
+    "Hexadecimal": "#b0e0e6",
+    "Rgb": "(176, 224, 230)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 118,
+    "Nombre": "PURPLE",
+    "Hexadecimal": "#800080",
+    "Rgb": "(128, 0, 128)",
+    "complementario": "Olive",
+    "valor_rgb": "(128, 128, 0)",
+    "valor_hexadecimal": "#808000"
+  },
+  {
+    "id": 119,
+    "Nombre": "RED",
+    "Hexadecimal": "#ff0000",
+    "Rgb": "(255, 0, 0)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 120,
+    "Nombre": "ROSYBROWN",
+    "Hexadecimal": "#bc8f8f",
+    "Rgb": "(188, 143, 143)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 121,
+    "Nombre": "ROYALBLUE",
+    "Hexadecimal": "#4169e1",
+    "Rgb": "(65, 105, 225)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 122,
+    "Nombre": "SADDLEBROWN",
+    "Hexadecimal": "#8b4513",
+    "Rgb": "(139, 69, 19)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 123,
+    "Nombre": "SALMON",
+    "Hexadecimal": null,
+    "Rgb": "(250, 128, 114)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 124,
+    "Nombre": "SANDYBROWN",
+    "Hexadecimal": "#f4a460",
+    "Rgb": "(244, 164, 96)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 125,
+    "Nombre": "SEAGREEN",
+    "Hexadecimal": "#2e8b57",
+    "Rgb": "(46, 139, 87)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 126,
+    "Nombre": "SEASHELL",
+    "Hexadecimal": "#fff5ee",
+    "Rgb": "(255, 245, 238)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 127,
+    "Nombre": "SIENNA",
+    "Hexadecimal": "#a0522d",
+    "Rgb": "(160, 82, 45)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 128,
+    "Nombre": "SILVER",
+    "Hexadecimal": "#c0c0c0",
+    "Rgb": "(192, 192, 192)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 129,
+    "Nombre": "SKYBLUE",
+    "Hexadecimal": "#87ceeb",
+    "Rgb": "(135, 206, 235)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 130,
+    "Nombre": "SLATEBLUE",
+    "Hexadecimal": "#6a5acd",
+    "Rgb": "(106, 90, 205)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 131,
+    "Nombre": "SLATEGRAY",
+    "Hexadecimal": "#708090",
+    "Rgb": "(112, 128, 144)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 132,
+    "Nombre": "SNOW",
+    "Hexadecimal": "#fffafa",
+    "Rgb": "(255, 250, 250)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 133,
+    "Nombre": "SPRINGGREEN",
+    "Hexadecimal": "#00ff7f",
+    "Rgb": "(0, 255, 127)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 134,
+    "Nombre": "STEELBLUE",
+    "Hexadecimal": "#4682b4",
+    "Rgb": "(70, 130, 180)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 135,
+    "Nombre": "TAN",
+    "Hexadecimal": "#d2b48c",
+    "Rgb": "(210, 180, 140)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 136,
+    "Nombre": "TEAL",
+    "Hexadecimal": "#008080",
+    "Rgb": "(0, 128, 128)",
+    "complementario": "Moccasin",
+    "valor_rgb": "(255, 228, 181)",
+    "valor_hexadecimal": "#ffe4b5"
+  },
+  {
+    "id": 137,
+    "Nombre": "THISTLE",
+    "Hexadecimal": "#d8bfd8",
+    "Rgb": "(216, 191, 216)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 138,
+    "Nombre": "TOMATO",
+    "Hexadecimal": "#ff6347",
+    "Rgb": "(255, 99, 71)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 139,
+    "Nombre": "TURQUOISE",
+    "Hexadecimal": "#40e0d0",
+    "Rgb": "(64, 224, 208)",
+    "complementario": "Peachpuff",
+    "valor_rgb": "(255, 218, 185)",
+    "valor_hexadecimal": "#ffdab9"
+  },
+  {
+    "id": 140,
+    "Nombre": "VIOLET",
+    "Hexadecimal": "#ee82ee",
+    "Rgb": "(238, 130, 238)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 141,
+    "Nombre": "WHEAT",
+    "Hexadecimal": "#f5deb3",
+    "Rgb": "(245, 222, 179)",
+    "complementario": "Darkorange",
+    "valor_rgb": "(255, 140, 0)",
+    "valor_hexadecimal": "#ff8c00"
+  },
+  {
+    "id": 142,
+    "Nombre": "WHITE",
+    "Hexadecimal": "#ffffff",
+    "Rgb": "(255, 255, 255)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  },
+  {
+    "id": 143,
+    "Nombre": "WHITESMOKE",
+    "Hexadecimal": "#f5f5f5",
+    "Rgb": "(245, 245, 245)",
+    "complementario": "Darkolivegreen",
+    "valor_rgb": "(85, 107, 47)",
+    "valor_hexadecimal": "#556b2f"
+  }
+]
