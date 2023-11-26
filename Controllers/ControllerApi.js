@@ -19,7 +19,7 @@ const solicitarColores = (req, res) => {
                 Hsl: hsl.trim()
             };
         });
-        console.log(convertir_arrray)
+        // console.log(convertir_arrray)
 
         res.status(200).json(convertir_arrray)
     });
@@ -47,7 +47,7 @@ const solicitar_color_id = (req, res) => {
 
 const solicitar_color_name = (req, res) => {
     const { nombre } = req.params
-    console.log(nombre)
+    // console.log(nombre)
     fs.readFile('./Data/data_colores.json', 'utf8', (err, data) => {
         if (err) {
             console.error('Error al leer el archivo:', err);
