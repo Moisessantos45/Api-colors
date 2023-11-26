@@ -138,6 +138,7 @@ const solicitar_complemento_color_id = (req, res) => {
 
 const solicitar_complemento_color_nombre = (req, res) => {
     const { nombre } = req.params
+    // console.log(nombre)
     fs.readFile('./Data/data_combinaciones.json', 'utf8', (err, data) => {
         if (err) {
             console.error('Error al leer el archivo:', err);

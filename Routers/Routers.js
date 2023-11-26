@@ -13,7 +13,7 @@ router.post("/color_hsl", solicitar_color_hsl)
 //combinaciones
 router.get("/complemento",solicitar_combinaciones)
 router.get("/complemento/:id",solicitar_complemento_color_id)
-router.get("/complemento/:nombre",solicitar_complemento_color_nombre)
+router.get("/complemento/nombre/:nombre",solicitar_complemento_color_nombre)
 router.post("/complemento/rgb",solicitar_complemento_color_rgb)
 
 export default router
